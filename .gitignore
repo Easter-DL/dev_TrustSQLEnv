@@ -1,0 +1,5 @@
+bin/
+.vscode/
+compiletarget.txt
+trustsql_rdlms_community_v0.1.jar
+trustsql_start.sh
